@@ -17,7 +17,3 @@ problems that could be transformable into reusable models <<ap>>.
 - Kent Beck
 - Ward Cunnhingham
 - Christopher Alexander
-
-== Bibliography
-[bibliography]
-- [[[ap]]] Martin Fowler. 'Analysis Patterns: Reusable Object Models'. Addison-Wesley. 1997. ISBN 0-20-189542-0.
