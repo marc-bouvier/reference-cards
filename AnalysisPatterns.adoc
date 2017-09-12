@@ -2,7 +2,7 @@
 [quote, Martin Fowler, Analysis Patterns: Reusable Object Models (1996)]
 Idea that has been useful in one practical context and will probably be useful in others.
 
-These patterns are discovered from various business domains emerging from real world projects.
+These patterns are discovered from various business domains emerging from real world projects.<<ap>>
 
 # See also
 - Martin Fowler
