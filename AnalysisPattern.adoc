@@ -10,7 +10,7 @@ ____
 
 Martin Fowler shared a part of his modeling experience from several business domains (financial 
 trading ,health care, corporate finance...). From those real world projects emerged repeating 
-problems that could be transformable into reusable models <<Bibliography.adoc#ap>>.
+problems that could be transformable into reusable models <<Bibliography.adoc#ap,[ap]>>.
 
 == See also
 - Martin Fowler
