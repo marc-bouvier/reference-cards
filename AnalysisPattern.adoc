@@ -1,12 +1,12 @@
 = Analysis Pattern
 
 [quote, Martin Fowler, Analysis Patterns - Reusable Object Models (1996)]
-_________________________________________________________________________
+____
 Idea that has been useful in one practical context and will probably be 
 useful in others.
-_________________________________________________________________________
+____
 
-
+== Purpose
 
 Martin Fowler shared a part of his modeling experience from several business domains (financial 
 trading ,health care, corporate finance...). From those real world projects emerged repeating 
