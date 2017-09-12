@@ -1,6 +1,6 @@
 = Analysis Pattern
 
-[quote, Martin Fowler, Analysis Patterns - Reusable Object Models (1996)]
+[quote, Martin Fowler, Analysis Patterns : Reusable Object Models (1996)]
 ____
 Idea that has been useful in one practical context and will probably be 
 useful in others.
