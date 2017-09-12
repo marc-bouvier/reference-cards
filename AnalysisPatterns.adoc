@@ -1,0 +1,15 @@
+= Analysis Patterns
+[quote, Martin Fowler, Analysis Patterns: Reusable Object Models (1996)]
+Idea that has been useful in one practical context and will probably be useful in others.
+
+These patterns are discovered from various business domains emerging from real world projects.
+
+# See also
+- Martin Fowler
+- Kent Beck
+- Ward Cunnhingham
+- Christopher Alexander
+
+== Bibliography
+[bibliography]
+- [[[ap]]] Martin Fowler. 'Analysis Patterns: Reusable Object Models'. Addison-Wesley. 1997. ISBN 0-20-189542-0.

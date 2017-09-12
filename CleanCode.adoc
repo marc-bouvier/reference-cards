@@ -1,6 +1,6 @@
-# Clean code
+= Clean code
 
-# See also
+== See also
 
 - Software Craftsmanship
 - Uncle Bob
