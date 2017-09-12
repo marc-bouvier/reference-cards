@@ -7,6 +7,7 @@ useful in others.
 _________________________________________________________________________
 
 
+
 Martin Fowler shared a part of his modeling experience from several business domains (financial 
 trading ,health care, corporate finance...). From those real world projects emerged repeating 
 problems that could be transformable into reusable model <<ap>>.
