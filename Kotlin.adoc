@@ -2,6 +2,9 @@
 
 TODO
 
+== Not null by default
+
+Null values becomes a smell and is raised by compiler. Stil possible to use it when doing interop with java libs.
 
 == Extension functions
 
