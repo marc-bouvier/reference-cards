@@ -1,0 +1,24 @@
+= Kotlin
+
+TODO
+
+
+== Extension functions
+
+Allow to have more expressive code.
+
+Java
+
+  if(StringUtils.isNotBlank(string)){
+    //...
+  }
+
+Kotlin (reads like a sentence)
+
+  if(string.isNotBlank){
+  
+  }
+
+_Compromis_ : TODO
+_Avantages_ : TODO
+_Inconvenients_ : TODO
