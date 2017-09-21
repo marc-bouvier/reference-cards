@@ -16,7 +16,7 @@ Java
 Kotlin (reads like a sentence)
 
   if(string.isNotBlank){
-  
+  //...
   }
 
 _Compromis_ : TODO
