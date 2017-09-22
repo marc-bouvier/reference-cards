@@ -1,5 +1,7 @@
 = Piepline as code
 
+Pipeline-as-Code : treating the continuous delivery pipeline a part of the application to be versioned and reviewed like any other code. 
+
 .jenkinsfile
 
 Creating a Jenkinsfile, which is checked into source control [1], provides a number of immediate benefits:
