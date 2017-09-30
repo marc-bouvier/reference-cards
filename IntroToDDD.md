@@ -1,4 +1,6 @@
-#Exemple de la poste
+# Introduire DDD à des néophytes
+
+## Exemple de la poste
 
 Entrée en matière : 
 Expliquer le concept de Système d'information : 
