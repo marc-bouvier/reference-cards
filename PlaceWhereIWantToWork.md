@@ -4,4 +4,8 @@
 - Does TDD
 - Does regular scheduled feedback to learn (retrospective...)
 - Open to innovation
-- 
+- Learning organization (presentations, formation, tech dailies...)
+- Agile? (XP)
+- Disciplined : TDD, pair-programming, code review, clean code, visual management
+- Focused : one project at a time
+- Ubuquitous language : I expect to meet and exchange with domain experts often.
