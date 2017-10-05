@@ -1,6 +1,6 @@
 # Place where I want to work
 
-- Organization and domain matched ethically with me. Must have sense to me
+- Organization and domain matches ethically with me. Must have sense to me
 - Does code review
 - Does TDD
 - Does regular scheduled feedback to learn (retrospective...)
